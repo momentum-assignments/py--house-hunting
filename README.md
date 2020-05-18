@@ -59,6 +59,8 @@ Number of months: 105
 
 ### Hints
 
+Write all code in `house_hunting.py`. To run this file, run `python3 house_hunting.py` on the command line.
+
 To help you get started, here is a rough outline of the stages you should probably follow in writing your code:
 
 - Retrieve user input. Look at `input()` if you need help with getting user input. For this problem set, you can assume that users will enter valid input (e.g. they won’t enter a string when you expect a number.)
